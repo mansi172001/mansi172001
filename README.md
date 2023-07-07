@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mansi Srivastava</h1>
 <h3 align="center">Coding with Creativity</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTDj_3c-P5J5IwYVwNQLjlKJ7b0XS67uqsT449jCroeUQyaibeBj4A7SzwlA2RFno3qo&usqp=CAU"
+<!-- <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTDj_3c-P5J5IwYVwNQLjlKJ7b0XS67uqsT449jCroeUQyaibeBj4A7SzwlA2RFno3qo&usqp=CAU" -->
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJSXqleemUtQzlyI6XQUxZT0YXPfai_sziYquKdiYdMS78XfHgjxVcfjRVLFr5dd9lz6A&usqp=CAU"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi172001&label=Profile%20views&color=0e75b6&style=flat" alt="mansi172001" /> </p>
 
