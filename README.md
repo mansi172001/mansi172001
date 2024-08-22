@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi172001&label=Profile%20views&color=0e75b6&style=flat" alt="mansi172001" /> </p>
 
-- 🌱 I’m currently learning **React,Swift,Blockchain,**
+- 🌱 I’m currently learning **Power BI,Numpy,AI,Blockchain,**
 
 - 📫 How to reach me **mansisrivastav2425@gmail.com**
 
